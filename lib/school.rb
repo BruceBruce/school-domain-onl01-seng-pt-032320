@@ -1,5 +1,6 @@
 class School
-  
+  hash {}
+  school.add_student("Zach Morris", 9)
   school.roster
 end
 
